@@ -56,7 +56,9 @@
 
             <suiteXmlFiles>
                 <!--代表的是要执行的测试套件名称-->
+                <!--
                 <suiteXmlFile>src/test/java/test1.xml</suiteXmlFile>
+                -->
             </suiteXmlFiles>
 
         </configuration>
